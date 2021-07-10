@@ -1,4 +1,8 @@
-# SwiftWebVC
+# SwiftWebVC Revised
+
+SwiftWebVC Revised is a Revised version of SwiftWebVC, I fixed some bugs in SwiftWebVC.
+
+# All about SwiftWebVC
 
 SwiftWebVC is a simple inline browser for your Swift iOS app.
 

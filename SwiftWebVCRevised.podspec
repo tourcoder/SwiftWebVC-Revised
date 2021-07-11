@@ -32,8 +32,7 @@ Pod::Spec.new do |s|
   * 3 different themes to choose from when presented modally
                        DESC
 
-  s.homepage         = 'https://github.com/tourcoder/SwiftWebVCRevised'
-  s.screenshots      = 'https://cloud.githubusercontent.com/assets/6603912/8509772/e1a1f2b6-22b0-11e5-878d-273b5b17b95a.png', 'https://cloud.githubusercontent.com/assets/6603912/8509773/e1a33ab8-22b0-11e5-93e4-c671934f55e5.png'
+  s.homepage         = 'https://github.com/tourcoder/SwiftWebVC-Revised'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Bin Hua' => 'code@tourcoder.com' }
   s.source           = { :git => 'https://github.com/tourcoder/SwiftWebVCRevised.git', :tag => s.version.to_s }

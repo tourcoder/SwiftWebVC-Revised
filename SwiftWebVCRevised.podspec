@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftWebVCRevised'
-  s.version          = '0.0.1'
+  s.version          = '0.4.4'
   s.summary          = 'SwiftWebVC Revised is a Revised version of SwiftWebVC and SwiftWebVC is a simple inline browser for your Swift iOS app.'
   s.swift_version    = '4.0'
 

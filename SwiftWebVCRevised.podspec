@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/tourcoder/SwiftWebVC-Revised'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Bin Hua' => 'code@tourcoder.com' }
+  s.author           = { 'Bin Hua' => 'forhua@gmail.com' }
   s.source           = { :git => 'https://github.com/tourcoder/SwiftWebVC-Revised.git', :tag => "#{s.version}" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

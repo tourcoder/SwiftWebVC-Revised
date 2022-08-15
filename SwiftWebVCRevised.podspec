@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint SwiftWebVC.podspec' to ensure this is a
+# Be sure to run `pod lib lint SwiftWebVCRevised.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftWebVCRevised'
-  s.version          = '0.4.3'
+  s.version          = '0.4.4'
   s.summary          = 'SwiftWebVC Revised is a Revised version of SwiftWebVC and SwiftWebVC is a simple inline browser for your Swift iOS app.'
   s.swift_version    = '4.0'
 
@@ -36,7 +36,6 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Bin Hua' => 'code@tourcoder.com' }
   s.source           = { :git => 'https://github.com/tourcoder/SwiftWebVC-Revised.git', :tag => "#{s.version}" }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
 
